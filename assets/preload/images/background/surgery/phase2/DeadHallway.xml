@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DeadHallway.png">
+	
+	
+	<SubTexture name="deadhallway0000" x="0" y="0" width="1282" height="700" />
+	<SubTexture name="deadhallway0001" x="1282" y="0" width="1282" height="700" />
+	<SubTexture name="deadhallway0002" x="2564" y="0" width="1282" height="700" />
+	<SubTexture name="deadhallway0003" x="0" y="700" width="1282" height="700" />
+	<SubTexture name="deadhallway0004" x="1282" y="700" width="1282" height="700" />
+	<SubTexture name="deadhallway0005" x="2564" y="700" width="1282" height="700" />
+	<SubTexture name="deadhallway0006" x="0" y="1400" width="1282" height="700" />
+	<SubTexture name="deadhallway0007" x="0" y="0" width="1282" height="700" />
+</TextureAtlas>

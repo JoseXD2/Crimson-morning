@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="debris.png">
+	
+	
+	<SubTexture name="fallingdebris0000" x="0" y="0" width="517" height="128" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0001" x="517" y="0" width="517" height="130" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0002" x="1035" y="0" width="517" height="134" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0003" x="0" y="134" width="517" height="140" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0004" x="517" y="134" width="517" height="150" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0005" x="1035" y="134" width="517" height="162" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0006" x="0" y="296" width="517" height="176" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0007" x="517" y="296" width="517" height="194" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0008" x="1035" y="296" width="517" height="214" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0009" x="0" y="510" width="517" height="236" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0010" x="517" y="510" width="517" height="262" frameX="0" frameY="0" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0011" x="1035" y="510" width="517" height="283" />
+	<SubTexture name="fallingdebris0012" x="0" y="793" width="517" height="283" />
+	<SubTexture name="fallingdebris0013" x="517" y="793" width="517" height="283" />
+	<SubTexture name="fallingdebris0014" x="1035" y="793" width="517" height="283" />
+	<SubTexture name="fallingdebris0015" x="0" y="1076" width="517" height="283" />
+	<SubTexture name="fallingdebris0016" x="517" y="1076" width="517" height="283" />
+	<SubTexture name="fallingdebris0017" x="1035" y="1076" width="517" height="283" />
+	<SubTexture name="fallingdebris0018" x="0" y="1359" width="517" height="283" />
+	<SubTexture name="fallingdebris0019" x="517" y="1359" width="517" height="263" frameX="0" frameY="-20" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0020" x="1035" y="1359" width="517" height="211" frameX="0" frameY="-72" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0021" x="0" y="1643" width="517" height="157" frameX="0" frameY="-127" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0022" x="517" y="1643" width="517" height="99" frameX="0" frameY="-184" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0023" x="517" y="1643" width="517" height="99" frameX="0" frameY="-244" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0024" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0025" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0026" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0027" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0028" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+	<SubTexture name="fallingdebris0029" x="517" y="1643" width="517" height="99" frameX="118" frameY="136" frameWidth="517" frameHeight="283" />
+</TextureAtlas>

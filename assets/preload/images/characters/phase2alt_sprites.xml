@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phase2alt_sprites.png">
+<SubTexture name="phase2alt_sprites idle0000" x="585" y="482" width="246" height="447" frameX="-50" frameY="-64" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0001" x="1230" y="447" width="246" height="446" frameX="-50" frameY="-65" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0002" x="1021" y="932" width="246" height="444" frameX="-50" frameY="-67" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0003" x="1267" y="932" width="246" height="443" frameX="-50" frameY="-68" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0004" x="1517" y="0" width="246" height="443" frameX="-50" frameY="-68" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0005" x="531" y="932" width="246" height="445" frameX="-50" frameY="-66" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0006" x="0" y="932" width="246" height="446" frameX="-50" frameY="-65" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites idle0007" x="984" y="0" width="246" height="447" frameX="-50" frameY="-63" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites shoot0000" x="1517" y="885" width="233" height="440" frameX="-31" frameY="-70" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites shoot0001" x="1517" y="443" width="238" height="442" frameX="-30" frameY="-68" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites shoot0002" x="777" y="932" width="244" height="445" frameX="-35" frameY="-65" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites shoot0003" x="984" y="447" width="246" height="447" frameX="-40" frameY="-63" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites down0000" x="1588" y="1378" width="297" height="378" frameX="-16" frameY="-133" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites down0001" x="1299" y="1378" width="289" height="391" frameX="-18" frameY="-120" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites down0002" x="1019" y="1378" width="280" height="399" frameX="-22" frameY="-112" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites down0003" x="749" y="1378" width="270" height="410" frameX="-24" frameY="-101" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites left0000" x="248" y="1378" width="252" height="434" frameX="-15" frameY="-74" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites left0001" x="500" y="1378" width="249" height="434" frameX="-20" frameY="-74" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites left0002" x="0" y="1378" width="248" height="435" frameX="-22" frameY="-73" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites left0003" x="1763" y="0" width="246" height="436" frameX="-26" frameY="-72" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites up0000" x="0" y="0" width="246" height="482" frameX="-50" frameY="-29" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites up0001" x="246" y="0" width="246" height="478" frameX="-50" frameY="-33" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites up0002" x="492" y="0" width="246" height="472" frameX="-50" frameY="-39" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites up0003" x="738" y="0" width="246" height="466" frameX="-50" frameY="-45" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites right0000" x="0" y="482" width="294" height="450" frameX="-54" frameY="-61" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites right0001" x="294" y="482" width="291" height="449" frameX="-53" frameY="-62" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites right0002" x="1230" y="0" width="287" height="447" frameX="-52" frameY="-64" frameWidth="412" frameHeight="514" />
+<SubTexture name="phase2alt_sprites right0003" x="246" y="932" width="285" height="446" frameX="-50" frameY="-65" frameWidth="412" frameHeight="514" />
+</TextureAtlas>
