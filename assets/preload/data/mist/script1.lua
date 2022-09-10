@@ -6,11 +6,11 @@ setObjectCamera('overstat', 'other')
 addLuaSprite('overstat', false);
 scaleObject('overstat', 6, 6)  
 
-makeLuaSprite('overlay', 'VCR/overlay', 0, 0);
-setLuaSpriteScrollFactor('overlay', 0, 0);
-addLuaSprite('overlay', true);
-scaleObject('overlay', 1, 1)  
-setObjectCamera('overlay', 'other');	
+makeLuaSprite('Overlay', 'VCR/Overlay', 0, 0);
+setLuaSpriteScrollFactor('Overlay', 0, 0);
+addLuaSprite('Overlay', true);
+scaleObject('Overlay', 1, 1)  
+setObjectCamera('Overlay', 'other');	
 
 makeLuaSprite('VCR', 'VCR/VCR', 0, 0);
 setLuaSpriteScrollFactor('VCR', 0, 0);
